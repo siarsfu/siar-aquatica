@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 2939fab7c02483c4283365c20c4332e4
+timeCreated: 1498345470
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aurelia_in
+    100002: aurelia_out
+    100004: in_body_10
+    100006: in_body_8
+    100008: in_body_9
+    100010: //RootNode
+    100012: out_body_1
+    100014: out_body_2
+    100016: out_body_3
+    100018: out_body_4
+    100020: out_body_5
+    100022: out_body_6
+    100024: out_body_7
+    400000: aurelia_in
+    400002: aurelia_out
+    400004: in_body_10
+    400006: in_body_8
+    400008: in_body_9
+    400010: //RootNode
+    400012: out_body_1
+    400014: out_body_2
+    400016: out_body_3
+    400018: out_body_4
+    400020: out_body_5
+    400022: out_body_6
+    400024: out_body_7
+    4300000: aurelia_in
+    4300002: aurelia_out
+    7400000: swim_normal
+    7400002: swim_slow
+    7400004: swim_long_slow
+    7400006: swim_long_normal
+    7400008: idle
+    7400010: death
+    9500000: //RootNode
+    13700000: aurelia_in
+    13700002: aurelia_out
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: swim_normal
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aurelia_in
+        weight: 1
+      - path: aurelia_out
+        weight: 1
+      - path: in_body_8
+        weight: 1
+      - path: in_body_9
+        weight: 1
+      - path: in_body_10
+        weight: 1
+      - path: out_body_1
+        weight: 1
+      - path: out_body_2
+        weight: 1
+      - path: out_body_3
+        weight: 1
+      - path: out_body_4
+        weight: 1
+      - path: out_body_5
+        weight: 1
+      - path: out_body_6
+        weight: 1
+      - path: out_body_7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swim_slow
+      takeName: Take 001
+      firstFrame: 52
+      lastFrame: 156
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aurelia_in
+        weight: 1
+      - path: aurelia_out
+        weight: 1
+      - path: in_body_8
+        weight: 1
+      - path: in_body_9
+        weight: 1
+      - path: in_body_10
+        weight: 1
+      - path: out_body_1
+        weight: 1
+      - path: out_body_2
+        weight: 1
+      - path: out_body_3
+        weight: 1
+      - path: out_body_4
+        weight: 1
+      - path: out_body_5
+        weight: 1
+      - path: out_body_6
+        weight: 1
+      - path: out_body_7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swim_long_slow
+      takeName: Take 001
+      firstFrame: 156
+      lastFrame: 585
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aurelia_in
+        weight: 1
+      - path: aurelia_out
+        weight: 1
+      - path: in_body_8
+        weight: 1
+      - path: in_body_9
+        weight: 1
+      - path: in_body_10
+        weight: 1
+      - path: out_body_1
+        weight: 1
+      - path: out_body_2
+        weight: 1
+      - path: out_body_3
+        weight: 1
+      - path: out_body_4
+        weight: 1
+      - path: out_body_5
+        weight: 1
+      - path: out_body_6
+        weight: 1
+      - path: out_body_7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: swim_long_normal
+      takeName: Take 001
+      firstFrame: 585
+      lastFrame: 846
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aurelia_in
+        weight: 1
+      - path: aurelia_out
+        weight: 1
+      - path: in_body_8
+        weight: 1
+      - path: in_body_9
+        weight: 1
+      - path: in_body_10
+        weight: 1
+      - path: out_body_1
+        weight: 1
+      - path: out_body_2
+        weight: 1
+      - path: out_body_3
+        weight: 1
+      - path: out_body_4
+        weight: 1
+      - path: out_body_5
+        weight: 1
+      - path: out_body_6
+        weight: 1
+      - path: out_body_7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 846
+      lastFrame: 1046
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aurelia_in
+        weight: 1
+      - path: aurelia_out
+        weight: 1
+      - path: in_body_8
+        weight: 1
+      - path: in_body_9
+        weight: 1
+      - path: in_body_10
+        weight: 1
+      - path: out_body_1
+        weight: 1
+      - path: out_body_2
+        weight: 1
+      - path: out_body_3
+        weight: 1
+      - path: out_body_4
+        weight: 1
+      - path: out_body_5
+        weight: 1
+      - path: out_body_6
+        weight: 1
+      - path: out_body_7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 1046
+      lastFrame: 1196
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: aurelia_in
+        weight: 1
+      - path: aurelia_out
+        weight: 1
+      - path: in_body_8
+        weight: 1
+      - path: in_body_9
+        weight: 1
+      - path: in_body_10
+        weight: 1
+      - path: out_body_1
+        weight: 1
+      - path: out_body_2
+        weight: 1
+      - path: out_body_3
+        weight: 1
+      - path: out_body_4
+        weight: 1
+      - path: out_body_5
+        weight: 1
+      - path: out_body_6
+        weight: 1
+      - path: out_body_7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
