@@ -7,7 +7,7 @@ Download link (Windows): https://unity3d.com/get-unity/download?thank-you=update
 
 # Unity rules of play
 
-•	All terrains have to be in one folder
+•	All terrains have to be in one folder: /Assets/Terrains/
 
 •	Work in separate “branch” scenes and then send prefabs over to main scene
 
