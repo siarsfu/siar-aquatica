@@ -49,11 +49,11 @@ public class HandBlaster : MonoBehaviour
         // Vector3 rotRight = rh.GetComponent<Transform>().transform.rotation.eulerAngles;
         Vector3 rotRight = rh.GetComponent<Transform>().transform.position;
         Vector3 rotLeft = lh.GetComponent<Transform>().transform.position;
-        Debug.Log("Controller Right Rotation:" + rotRight);
+        //Debug.Log("Controller Right Rotation:" + rotRight);
 
         if (OVRInput.Get(OVRInput.RawAxis1D.RIndexTrigger) > 0.0f)
         {
-            this.GetComponent<Rigidbody>().AddForce(-rh.transform.forward * 10000);
+            this.GetComponent<Rigidbody>().AddForce(rh.transform.forward * 10000);
 
 
             //this.GetComponent<Rigidbody>().AddForce(-rotRight.x, -rotRight.y, -rotRight.z, ForceMode.Impulse);
@@ -63,7 +63,7 @@ public class HandBlaster : MonoBehaviour
 
         if (OVRInput.Get(OVRInput.RawAxis1D.LIndexTrigger) > 0.0f)
         {
-            this.GetComponent<Rigidbody>().AddForce(-lh.transform.forward * 10000);
+            this.GetComponent<Rigidbody>().AddForce(lh.transform.forward * 10000);
 
             //this.GetComponent<Rigidbody>().AddForce(-rotRight.x, -rotRight.y, -rotRight.z, ForceMode.Impulse);
             //this.GetComponent<Rigidbody>().AddForce(this.transform.forward * posRight.z *100);

@@ -5,8 +5,7 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_Name: Caustics
   m_Shader: {fileID: 4800000, guid: bcad061db36e53a42b1456ea2e549ecd, type: 3}
   m_ShaderKeywords: 
@@ -40,7 +39,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadowTex:
-        m_Texture: {fileID: 2800000, guid: a6456a1328eb3a948920172244d87996, type: 3}
+        m_Texture: {fileID: 2800000, guid: cc1ce88d94177134da444208da0044c5, type: 3}
         m_Scale: {x: 400, y: 400}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
