@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 5f26a9fa395483041991940ccd7138bd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: Cylinder001
+    100004: DisheSoapContainer_MA:Body
+    100006: DisheSoapContainer_MA:container
+    100008: DisheSoapContainer_MA:Head
+    100010: DisheSoapContainer_MA:Head 1
+    100012: DisheSoapContainer_MA:neck
+    100014: DisheSoapContainer_MA:transform1
+    100016: DisheSoapContainer_MA:transform2
+    100018: imagePlane1
+    100020: imagePlane2
+    100022: pCube1
+    100024: pCube2
+    100026: pCylinder1
+    100028: pCylinder2
+    100030: pCylinder3
+    100032: pCylinder4
+    100034: pCylinder8
+    100036: pCylinder9
+    100038: polySurface1
+    100040: polySurface2
+    100042: polySurface2 1
+    100044: transform1
+    100046: transform2
+    100048: transform3
+    100050: transform4
+    100052: transform5
+    100054: transform6
+    100056: transform7
+    100058: tyre:rim
+    100060: tyre:rim 1
+    100062: tyre:transform1
+    100064: tyre:transform2
+    100066: tyre:wheel
+    100068: tyre:wheel 1
+    100070: Water_Bottle
+    100072: //RootNode
+    400000: back
+    400002: Cylinder001
+    400004: DisheSoapContainer_MA:Body
+    400006: DisheSoapContainer_MA:container
+    400008: DisheSoapContainer_MA:Head
+    400010: DisheSoapContainer_MA:Head 1
+    400012: DisheSoapContainer_MA:neck
+    400014: DisheSoapContainer_MA:transform1
+    400016: DisheSoapContainer_MA:transform2
+    400018: imagePlane1
+    400020: imagePlane2
+    400022: pCube1
+    400024: pCube2
+    400026: pCylinder1
+    400028: pCylinder2
+    400030: pCylinder3
+    400032: pCylinder4
+    400034: pCylinder8
+    400036: pCylinder9
+    400038: polySurface1
+    400040: polySurface2
+    400042: polySurface2 1
+    400044: transform1
+    400046: transform2
+    400048: transform3
+    400050: transform4
+    400052: transform5
+    400054: transform6
+    400056: transform7
+    400058: tyre:rim
+    400060: tyre:rim 1
+    400062: tyre:transform1
+    400064: tyre:transform2
+    400066: tyre:wheel
+    400068: tyre:wheel 1
+    400070: Water_Bottle
+    400072: //RootNode
+    2000000: back
+    2100000: lambert1
+    2100002: lambert2
+    2100004: tyre_tyres
+    2100006: tyre_rimchrome
+    2100008: tyre_rimscrew
+    2100010: tyre_lambert2
+    2100012: Bottle1
+    2100014: Cap
+    2300000: Cylinder001
+    2300002: DisheSoapContainer_MA:Body
+    2300004: DisheSoapContainer_MA:Head
+    2300006: pCylinder2
+    2300008: pCylinder4
+    2300010: pCylinder8
+    2300012: pCylinder9
+    2300014: polySurface2
+    3300000: Cylinder001
+    3300002: DisheSoapContainer_MA:Body
+    3300004: DisheSoapContainer_MA:Head
+    3300006: pCylinder2
+    3300008: pCylinder4
+    3300010: pCylinder8
+    3300012: pCylinder9
+    3300014: polySurface2
+    4300000: Cylinder001
+    4300002: DisheSoapContainer_MA:Body
+    4300004: pCylinder2
+    4300006: pCylinder4
+    4300008: polySurface2
+    4300010: pCylinder8
+    4300012: pCylinder9
+    4300014: DisheSoapContainer_MA:Head
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
